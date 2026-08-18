@@ -5,3 +5,5 @@ I build recruiting-operations software: the systems around the ATS that make hir
 - **[Rosie](https://github.com/sam-vangelos/Rosie)** — few-shot resume ranking over live ATS pipelines: rubric generation, revealed-preference calibration, and three model runtimes behind one byte-locked contract.
 - **[recruiting-analytics-platform](https://github.com/sam-vangelos/recruiting-analytics-platform)** — Greenhouse-to-Postgres ELT, SLA sweeps, identity resolution, and permit-gated Google Workspace automation, gated by an AST architecture checker and a mutation corpus.
 - **[greenhouse-mcp](https://github.com/sam-vangelos/greenhouse-mcp)** — scoped MCP servers for Greenhouse: per-user permission enforcement on every read, paired preview/apply writes, and an evidence-gated rollout.
+
+<!-- pinned: the five portfolio repositories above -->
